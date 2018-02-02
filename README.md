@@ -1,3 +1,11 @@
+
+<p align="center">
+  <br>
+  <img width="300" src="https://github.com/heterogeneous-research/awesome-genome/blob/master/awesome-genome-2.png" alt="awesome">
+  <br>
+  <br>
+</p>
+
 # Awesome-genome
 A list of awesome things related to personal genomics.
 
