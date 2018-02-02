@@ -1,7 +1,7 @@
 
 <p align="center">
   <br>
-  <img width="300" src="https://github.com/heterogeneous-research/awesome-genome/blob/master/awesome-genome-2.png" alt="awesome">
+  <img width="300" src="https://github.com/heterogeneous-research/awesome-genome/blob/master/awesome-genome-crop.png" alt="awesome">
   <br>
   <br>
 </p>
