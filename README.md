@@ -11,7 +11,7 @@ This is put together by Patrick from [heterogeneous.co.uk](https://heterogeneous
 
 [DNA.land](https://dna.land/) - donate your 23andMe/Ancestry.com data to research, you get a free ancestry/traits prediction.
 
-[Open-ancestry](https://github.com/heterogeneous-research/open-ancestry) - tutorial in python on how to do ancestry prediction on 23andMe data. Long term goal of the project to produce a fully open source ancestry prediction platform.
+[Open-ancestry](https://github.com/heterogeneous-research/open-ancestry) - very basic tutorial in python on how to do ancestry prediction on 23andMe data. Long term goal of the project to produce a fully open source ancestry prediction platform.
 
 ### Interpreting personal genome data (paid)
 [GenePlaza](https://www.geneplaza.com/) - offering low-cost reports and (very importantly, in my humble opinion) users own all of their data.
