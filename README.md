@@ -21,6 +21,8 @@ This is put together by Patrick from [heterogeneous.co.uk](https://heterogeneous
 
 [Open-ancestry](https://github.com/heterogeneous-research/open-ancestry) - very basic tutorial in python on how to do ancestry prediction on 23andMe data. Long term goal of the project to produce a fully open source ancestry prediction platform.
 
+[MyGene2](https://mygene2.org/MyGene2/) - focus on patients/families with a rare disease. Great way to connect with other patients/families and free tool to explore your clinical Exome sequence data for free.
+
 ### Interpreting personal genome data (paid)
 [GenePlaza](https://www.geneplaza.com/) - offering low-cost reports and (very importantly, in my humble opinion) users own all of their data.
 
